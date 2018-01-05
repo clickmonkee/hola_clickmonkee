@@ -6,3 +6,6 @@ Local irb use for including all nested lib files use the following command:
 
 Run executable:
   ruby -Ilib ./bin/hola_clickmonkee spanish
+
+Tutorial:
+http://guides.rubygems.org/make-your-own-gem/
