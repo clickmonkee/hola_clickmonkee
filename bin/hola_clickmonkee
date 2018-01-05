@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'hola_clickmonkee'
+puts HolaClickmonkee.hi(ARGV[0])

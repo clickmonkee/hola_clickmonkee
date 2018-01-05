@@ -1,0 +1,8 @@
+How to install for local test:
+  gem install ./hola_clickmonkee-0.0.0.gem
+
+Local irb use for including all nested lib files use the following command:
+  irb -Ilib
+
+Run executable:
+  ruby -Ilib ./bin/hola_clickmonkee spanish
